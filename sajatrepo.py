@@ -1,17 +1,16 @@
 import random
 
-c = random.randint(0,10)
+c = random.randint(1,10)
 
-a = int(input("adj meg egy szamot amit négyzetre szeretnél emelni: "))
-b = a**2
+a = int(input("adj meg egy számot 1-10 között: "))
 
-print(b)
-
-if c==b:
+if c==a:
     print("szerencséd van")
-elif c>=b:
+elif c>=a:
     print("alá tippeltél")
 else:
     print("fölé tippeltél")
 
-szo = input("adj meg egy öt betűs szót: ")
+nev = input("hogy hivnak: ")
+
+
