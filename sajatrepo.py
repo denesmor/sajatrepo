@@ -14,4 +14,4 @@ elif c>=b:
 else:
     print("fölé tippeltél")
 
-
+szo = input("adj meg egy öt betűs szót: ")
