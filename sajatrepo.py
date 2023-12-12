@@ -7,3 +7,7 @@ b = a**2
 
 if c==b:
     print("szerencséd van")
+elif c>=b:
+    print("alá tippeltél")
+else:
+    print("fölé tippeltél")
