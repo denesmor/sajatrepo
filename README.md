@@ -1,3 +1,2 @@
 # sajatrepo
-#új commit
-# nagyon jo
+# prob valami
